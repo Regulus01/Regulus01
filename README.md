@@ -2,7 +2,7 @@
 
 * I live in 🇧🇷, Aracaju-SE 🌅
 * I am looking for opportunities to increase my knowledge 🧠
-* I am currently learning the basics in c ++ 🎓
+* I am currently learning the basics in C++ 🎓
 * I have knowledge in python 👨‍🎓
 * Study at Tiradentes University - Sergipe 💻
 ----------------------------------------------------------------
