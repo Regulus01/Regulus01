@@ -1,4 +1,4 @@
-### Hi there, my name is José 👋
+## Hi there, my name is José 👋
 
 * I live in 🇧🇷, Aracaju-SE 🌅
 * I am looking for opportunities to increase my knowledge 🧠
