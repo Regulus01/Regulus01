@@ -6,11 +6,11 @@
 * I have knowledge in python 👨‍🎓
 * Study at Tiradentes University - Sergipe 💻
 ----------------------------------------------------------------
-## Habilidades
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="50" height= "60" style="max-
-width:100%;">
-<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"  width="50" height= "60" style="max-
-width:100%;">
+## Skills
+<center><br>
+<img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+<img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+</center><br>
 <!--
 **Regulus01/Regulus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
