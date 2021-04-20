@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hi there, my name is José 👋
 
+* I live in 🇧🇷, Aracaju-SE
+* I am looking for opportunities to increase my knowledge
+* I am currently learning the basics in c ++
+* I have knowledge in python
+* Study at Tiradentes University - Sergipe
 <!--
 **Regulus01/Regulus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
