@@ -5,7 +5,9 @@
 * I am currently learning the basics in C++ 🎓
 * I have knowledge in python 👨‍🎓
 * Study at Tiradentes University - Sergipe 💻
-----------------------------------------------------------------
+<hr>
+
+
 ## Skills
 <center><br>
 <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
