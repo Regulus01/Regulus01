@@ -19,7 +19,6 @@ width:100%;">
 
 <p align="center">
     <img  style=": right;" src="lost_canvas.jpg"/>
-    <img height="350" src="lost_canvas.jpg"/>
 </p>
 <!--
 **Regulus01/Regulus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
