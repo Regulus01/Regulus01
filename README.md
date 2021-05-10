@@ -16,6 +16,11 @@ style="max-width:100%;">
 width:100%;">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
+
+<p align="center">
+    <img  style=": right;" src="regulus.svg"/>
+    <img height="350" src="regulus.svg"/>
+</p>
 <!--
 **Regulus01/Regulus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
