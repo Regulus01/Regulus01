@@ -16,6 +16,8 @@ style="max-width:100%;">
 width:100%;">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
+width:100%;">
 
 <p align="center">
     <img  style=": right;" src="fullmetal.gif"/>
