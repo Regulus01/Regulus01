@@ -19,6 +19,9 @@ width:100%;">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
 
+<p align="center"> Quantidade de visitar no perfil </p>
+<p align="center">   <img alingn="center" src="https://github.com/Regulus01" /></p>
+  
 <p align="center">
     <img  style=": right;" src="fullmetal.gif"/>
 </p>
