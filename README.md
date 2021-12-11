@@ -20,7 +20,7 @@ width:100%;">
 width:100%;">
 
 <p align="center"> Quantidade de visitas no perfil </p>
-<p align="center">   <img alingn="center" src="https://github.com/Regulus01" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Regulus01/count.svg" /></p>
   
 <p align="center">
     <img  style=": right;" src="fullmetal.gif"/>
