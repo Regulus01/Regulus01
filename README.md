@@ -18,6 +18,9 @@ width:100%;">
 width:100%;">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
+
+
 
 <p align="center"> Quantidade de visitas no perfil </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Regulus01/count.svg" /></p>
