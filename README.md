@@ -3,7 +3,7 @@
 * I live in 🇧🇷, Aracaju-SE 🌅
 * I am looking for opportunities to increase my knowledge 🧠
 * I am currently learning C# 🎓
-* I have knowledge in python 👨‍🎓
+* I have knowledge in python, C++ and java 👨‍🎓
 * Study at Tiradentes University - Sergipe 💻
 
 ## Connect with me
