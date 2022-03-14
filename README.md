@@ -10,6 +10,10 @@
 <a href = "https://www.facebook.com/joseclaudio.sousasantos.5/" targe="_blank">
 <img align="center" alt="jose-facebook" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
 style="max-width:100%;">
+
+<a href = "https://www.instagram.com/joseclaudiossj/" targe="_blank">
+<img align="center" alt="jose-facebook" height="50" width="60" src="https://w7.pngwing.com/pngs/5/164/png-transparent-instagram-icon-thepix-digital-marketing-logo-shiftdelete-instagram-logo-miscellaneous-rectangle-magenta.png"
+style="max-width:100%;">
   
 ## Skills
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="rails" width="50" height= "60" style="max-
