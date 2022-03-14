@@ -12,7 +12,7 @@
 style="max-width:100%;">
 
 <a href = "https://www.instagram.com/joseclaudiossj/" targe="_blank">
-<img align="center" alt="jose-facebook" height="50" width="60" src="https://w7.pngwing.com/pngs/5/164/png-transparent-instagram-icon-thepix-digital-marketing-logo-shiftdelete-instagram-logo-miscellaneous-rectangle-magenta.png"
+<img align="center" alt="jose-facebook" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
 style="max-width:100%;">
   
 ## Skills
