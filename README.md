@@ -1,12 +1,12 @@
-## Hi there, my name is José 👋
+## Meu nome é José 👋
 
-* I live in 🇧🇷, Aracaju-SE 🌅
-* I am looking for opportunities to increase my knowledge 🧠
-* I am currently learning C# 🎓
-* I have knowledge in python, C++ and java 👨‍🎓
-* Study at Tiradentes University - Sergipe 💻
+* Eu moro em Aracaju-SE, Brasil 🌅
+* Estou a procura de oportunidades para aumentar o meu conhecimento🧠
+* Atualmente estou focado em aprender e seus frameworks C# 🎓
+* Tenho conhecimento em Python, C++ e Java 👨‍🎓
+* Estudo na UNIT (Universidade tiradentes) - Sergipe 💻
 
-## Connect with me
+## Contato
 <a href = "https://www.facebook.com/joseclaudio.sousasantos.5/" targe="_blank">
 <img align="center" alt="jose-facebook" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
 style="max-width:100%;">
