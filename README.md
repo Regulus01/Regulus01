@@ -23,6 +23,7 @@ width:100%;">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="rails" width="50" height= "60" style="max-width:100%;">
 
 ## Frameworks
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="rails" width="50" height= "60" style="max-
