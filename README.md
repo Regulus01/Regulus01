@@ -1,6 +1,6 @@
 ## Meu nome é José 👋
 
-* Eu moro em Aracaju-SE, Brasil 🌅
+* Moro em Aracaju-SE, Brasil 🌅
 * Estou a procura de oportunidades para aumentar o meu conhecimento🧠
 * Atualmente estou focado em aprender e seus frameworks C# 🎓
 * Tenho conhecimento em Python, C++ e Java 👨‍🎓
