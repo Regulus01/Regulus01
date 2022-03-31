@@ -2,7 +2,7 @@
 
 * Moro em Aracaju-SE, Brasil 🌅
 * Estou a procura de oportunidades para aumentar o meu conhecimento🧠
-* Atualmente estou focado em aprender e seus frameworks C# 🎓
+* Atualmente estou focado em aprender C# e seus frameworks 🎓
 * Tenho conhecimento em Python, C++ e Java 👨‍🎓
 * Estudo na UNIT (Universidade tiradentes) - Sergipe 💻
 
