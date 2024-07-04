@@ -1,6 +1,5 @@
 ## Meu nome é José 👋
 
-* Estou a procura de oportunidades para aumentar o meu conhecimento🧠
 * Atualmente no desenvolvimento FullStack 🎓
 * Atuando no desenvolvimento backend com foco em .net/C#
 * Tenho conhecimento em Python, C++, C# e Java 👨‍🎓
