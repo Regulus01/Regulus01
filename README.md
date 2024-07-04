@@ -1,11 +1,10 @@
 ## Meu nome é José 👋
 
-* Moro em Aracaju-SE, Brasil 🌅
 * Estou a procura de oportunidades para aumentar o meu conhecimento🧠
 * Atualmente no desenvolvimento FullStack 🎓
 * Atuando no desenvolvimento backend com foco em .net/C#
 * Tenho conhecimento em Python, C++, C# e Java 👨‍🎓
-* Estudo na UNIT (Universidade tiradentes) - Sergipe 💻
+* Formado em ciência da computação pela UNIT (Universidade tiradentes) 💻
 
 ## Contato
 <a href = "https://www.facebook.com/joseclaudio.sousasantos.5/" targe="_blank">
