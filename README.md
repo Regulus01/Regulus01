@@ -3,7 +3,7 @@
 * Atualmente no desenvolvimento FullStack 🎓
 * Atuando no desenvolvimento backend com foco em .net/C#
 * Tenho conhecimento em Python, C++, C# e Java 👨‍🎓
-* Formado em ciência da computação pela UNIT (Universidade tiradentes) 💻
+* Graduado em ciência da computação pela UNIT (Universidade tiradentes) 💻
 
 ## Contato
 <a href = "https://www.facebook.com/joseclaudio.sousasantos.5/" targe="_blank">
