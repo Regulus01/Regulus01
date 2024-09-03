@@ -1,7 +1,6 @@
 ## Meu nome é José 👋
 
-* Atualmente no desenvolvimento FullStack 🎓
-* Atuando no desenvolvimento backend com foco em .net/C#
+* Desenvolvedor backend com foco em .net/C#
 * Tenho conhecimento em Python, C++, C# e Java 👨‍🎓
 * Graduado em ciência da computação pela UNIT (Universidade tiradentes) 💻
 
