@@ -1,18 +1,9 @@
 ## Meu nome é José 👋
 
-* Desenvolvedor backend com foco em .net/C#
-* Tenho conhecimento em Python, C++, C# e Java 👨‍🎓
+* Desenvolvedor backend 👨‍🎓
 * Graduado em ciência da computação pela UNIT (Universidade tiradentes) 💻
 
 ## Contato
-<a href = "https://www.facebook.com/joseclaudio.sousasantos.5/" targe="_blank">
-<img align="center" alt="jose-facebook" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg"
-style="max-width:100%;">
-
-<a href = "https://www.instagram.com/joseclaudiossj/" targe="_blank">
-<img align="center" alt="jose-instagram" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
-style="max-width:100%;">
-  
 <a href = "https://www.linkedin.com/in/jos%C3%A9-cl%C3%A1udio-sousa-santos-j%C3%BAnior-871940210/" targe="_blank">
 <img align="center" alt="jose-Linkedin" height="50" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
@@ -32,14 +23,6 @@ width:100%;">
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" alt="rails" width="50" height= "60" style="max-
 width:100%;">
 
-
-
-<p align="center"> Quantidade de visitas no perfil </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Regulus01/count.svg" /></p>
-  
-<p align="center">
-    <img  style=": right;" src="fullmetal.gif"/>
-</p>
 <!--
 **Regulus01/Regulus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
